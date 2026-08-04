@@ -26,10 +26,6 @@ practical skills in MikroTik RouterOS configuration.
 - WinBox
 - VirtualBox
 
-## Network Diagram
-
-![Network Diagram](network-diagram.png)
-
 ## Author
 
 Oleg Ivannikov
